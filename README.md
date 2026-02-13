@@ -1,2 +1,14 @@
-# test
-测试仓库 - Nyra 与木白合作开发
+# Hello Nyra
+
+A simple test project for Nyra and mubai collaboration.
+
+## Usage
+
+```bash
+npm install
+npm start
+```
+
+## Output
+
+Running `npm start` will print: `Hello from Nyra! 🔥`

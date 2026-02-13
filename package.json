@@ -1,0 +1,12 @@
+{
+  "name": "hello-nyra",
+  "version": "1.0.0",
+  "description": "A simple hello world project for Nyra and mubai collaboration",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
